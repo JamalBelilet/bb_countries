@@ -1,0 +1,2967 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`countries-page renders with errors 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginTop": 50,
+            "paddingBottom": 12,
+            "paddingLeft": 20,
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#b8bece",
+              "fontSize": 21,
+              "fontWeight": "500",
+            },
+          ]
+        }
+      >
+        Welcome to,
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 40,
+              "fontWeight": "900",
+            },
+          ]
+        }
+      >
+        B.B. Countries
+      </Text>
+    </View>
+    <View
+      paddingBottom={40}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`countries-page renders with errors 2`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginTop": 50,
+            "paddingBottom": 12,
+            "paddingLeft": 20,
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#b8bece",
+              "fontSize": 21,
+              "fontWeight": "500",
+            },
+          ]
+        }
+      >
+        Welcome to,
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 40,
+              "fontWeight": "900",
+            },
+          ]
+        }
+      >
+        B.B. Countries
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "marginBottom": 80,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 80,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#b8bece",
+              "fontSize": 16,
+              "fontWeight": "600",
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "paddingBottom": 2,
+              "paddingLeft": 2,
+              "paddingRight": 2,
+              "paddingTop": 2,
+              "textTransform": "uppercase",
+            },
+          ]
+        }
+      >
+        Error: 
+        No message!
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`countries-page renders without error 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginTop": 50,
+            "paddingBottom": 12,
+            "paddingLeft": 20,
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#b8bece",
+              "fontSize": 21,
+              "fontWeight": "500",
+            },
+          ]
+        }
+      >
+        Welcome to,
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 40,
+              "fontWeight": "900",
+            },
+          ]
+        }
+      >
+        B.B. Countries
+      </Text>
+    </View>
+    <View
+      paddingBottom={40}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#fefefe",
+              "borderRadius": 15,
+              "height": 280,
+              "marginBottom": 20,
+              "marginLeft": 20,
+              "marginRight": 20,
+              "marginTop": 20,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 5,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 15,
+            },
+            Object {
+              "elevation": 10,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(0, 0, 0, 0.45)",
+                "borderTopLeftRadius": 15,
+                "borderTopRightRadius": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": 200,
+                "overflow": "hidden",
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+                "position": "relative",
+                "width": "100%",
+              },
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "column",
+                "flexWrap": "nowrap",
+                "justifyContent": "center",
+                "marginLeft": 10,
+                "minHeight": 80,
+                "paddingBottom": 0,
+                "paddingLeft": 20,
+                "paddingRight": 20,
+                "paddingTop": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 20,
+                  "fontWeight": "600",
+                  "width": "70%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "rgba(0, 0, 0, 0.075)",
+                  "color": "transparent",
+                  "fontSize": 15,
+                  "fontWeight": "600",
+                  "marginTop": 4,
+                  "textTransform": "uppercase",
+                  "width": "40%",
+                },
+              ]
+            }
+          >
+            ######
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`countries-page renders without error 2`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "code": "##",
+        },
+        Object {
+          "capital": "Buenos Aires",
+          "code": "AR",
+          "languages": Array [
+            Object {
+              "code": "es",
+              "name": "Spanish",
+            },
+            Object {
+              "code": "gn",
+              "name": "Guarani",
+            },
+          ],
+          "name": "Argentina",
+          "states": Array [
+            Object {
+              "code": null,
+              "name": "Ciudad Autónoma de Buenos Aires",
+            },
+            Object {
+              "code": null,
+              "name": "Buenos Aires",
+            },
+            Object {
+              "code": null,
+              "name": "Catamarca",
+            },
+            Object {
+              "code": null,
+              "name": "Chaco",
+            },
+            Object {
+              "code": null,
+              "name": "Chubut",
+            },
+            Object {
+              "code": null,
+              "name": "Córdoba",
+            },
+            Object {
+              "code": null,
+              "name": "Corrientes",
+            },
+            Object {
+              "code": null,
+              "name": "Entre Ríos",
+            },
+            Object {
+              "code": null,
+              "name": "Formosa",
+            },
+            Object {
+              "code": null,
+              "name": "Jujuy",
+            },
+            Object {
+              "code": null,
+              "name": "La Pampa",
+            },
+            Object {
+              "code": null,
+              "name": "La Rioja",
+            },
+            Object {
+              "code": null,
+              "name": "Mendoza",
+            },
+            Object {
+              "code": null,
+              "name": "Misiones",
+            },
+            Object {
+              "code": null,
+              "name": "Neuquén",
+            },
+            Object {
+              "code": null,
+              "name": "Río Negro",
+            },
+            Object {
+              "code": null,
+              "name": "Salta",
+            },
+            Object {
+              "code": null,
+              "name": "San Juan",
+            },
+            Object {
+              "code": null,
+              "name": "San Luis",
+            },
+            Object {
+              "code": null,
+              "name": "Santa Cruz",
+            },
+            Object {
+              "code": null,
+              "name": "Santa Fe",
+            },
+            Object {
+              "code": null,
+              "name": "Santiago del Estero",
+            },
+            Object {
+              "code": null,
+              "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+            },
+            Object {
+              "code": null,
+              "name": "Tucumán",
+            },
+          ],
+        },
+        Object {
+          "capital": "Vienna",
+          "code": "AT",
+          "languages": Array [
+            Object {
+              "code": "de",
+              "name": "German",
+            },
+          ],
+          "name": "Austria",
+          "states": Array [
+            Object {
+              "code": "B",
+              "name": "Burgenland",
+            },
+            Object {
+              "code": "K",
+              "name": "Kärnten",
+            },
+            Object {
+              "code": "NÖ",
+              "name": "Niederösterreich",
+            },
+            Object {
+              "code": "OÖ",
+              "name": "Oberösterreich",
+            },
+            Object {
+              "code": "S",
+              "name": "Salzburg",
+            },
+            Object {
+              "code": "ST",
+              "name": "Steiermark",
+            },
+            Object {
+              "code": "T",
+              "name": "Tirol",
+            },
+            Object {
+              "code": "V",
+              "name": "Vorarlberg",
+            },
+            Object {
+              "code": "W",
+              "name": "Wien",
+            },
+          ],
+        },
+        Object {
+          "capital": "Canberra",
+          "code": "AU",
+          "languages": Array [
+            Object {
+              "code": "en",
+              "name": "English",
+            },
+          ],
+          "name": "Australia",
+          "states": Array [
+            Object {
+              "code": null,
+              "name": "Ashmore and Cartier Islands",
+            },
+            Object {
+              "code": null,
+              "name": "Australian Antarctic Territory",
+            },
+            Object {
+              "code": "ACT",
+              "name": "Australian Capital Territory",
+            },
+            Object {
+              "code": "CX",
+              "name": "Christmas Island",
+            },
+            Object {
+              "code": "CC",
+              "name": "Cocos Islands",
+            },
+            Object {
+              "code": null,
+              "name": "Coral Sea Islands",
+            },
+            Object {
+              "code": "HM",
+              "name": "Heard Island and McDonald Islands",
+            },
+            Object {
+              "code": "JBT",
+              "name": "Jervis Bay Territory",
+            },
+            Object {
+              "code": "NSW",
+              "name": "New South Wales",
+            },
+            Object {
+              "code": "NF",
+              "name": "Norfolk Island",
+            },
+            Object {
+              "code": "NT",
+              "name": "Northern Territory",
+            },
+            Object {
+              "code": "QLD",
+              "name": "Queensland",
+            },
+            Object {
+              "code": "SA",
+              "name": "South Australia",
+            },
+            Object {
+              "code": "TAS",
+              "name": "Tasmania",
+            },
+            Object {
+              "code": "VIC",
+              "name": "Victoria",
+            },
+            Object {
+              "code": "WA",
+              "name": "Western Australia",
+            },
+          ],
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "marginTop": 50,
+                "paddingBottom": 12,
+                "paddingLeft": 20,
+                "width": "100%",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#b8bece",
+                  "fontSize": 21,
+                  "fontWeight": "500",
+                },
+              ]
+            }
+          >
+            Welcome to,
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "fontSize": 40,
+                  "fontWeight": "900",
+                },
+              ]
+            }
+          >
+            B.B. Countries
+          </Text>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Array [
+              Object {
+                "backgroundColor": "white",
+                "borderRadius": 15,
+                "height": 280,
+                "marginBottom": 20,
+                "marginLeft": 20,
+                "marginRight": 20,
+                "marginTop": 20,
+                "shadowColor": "rgba(0, 0, 0, 0.15)",
+                "shadowOffset": Object {
+                  "height": 5,
+                  "width": 0,
+                },
+                "shadowOpacity": 1,
+                "shadowRadius": 15,
+              },
+              Object {
+                "elevation": 10,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "black",
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "height": 200,
+                  "overflow": "hidden",
+                  "paddingBottom": 16,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingTop": 16,
+                  "position": "relative",
+                  "width": "100%",
+                },
+              ]
+            }
+          >
+            <Text
+              capital={true}
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "900",
+                    "marginTop": 4,
+                    "opacity": 1,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Buenos Aires
+               .
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Ciudad Autónoma de Buenos Aires
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Catamarca
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chaco
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chubut
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Córdoba
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Corrientes
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Entre Ríos
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Formosa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Jujuy
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Pampa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Rioja
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Mendoza
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Misiones
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Neuquén
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Río Negro
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Salta
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Juan
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Luis
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Cruz
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Fe
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santiago del Estero
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tierra del Fuego, Antártida e Islas del Atlántico Sur
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tucumán
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "bottom": 0,
+                    "color": "white",
+                    "fontSize": 120,
+                    "fontWeight": "900",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "textAlign": "center",
+                    "textShadowColor": "rgba(0, 0, 0, 0.5)",
+                    "textShadowOffset": Object {
+                      "height": 0,
+                      "width": 0,
+                    },
+                    "textShadowRadius": 11,
+                  },
+                ]
+              }
+            >
+              AR
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "center",
+                  "marginLeft": 10,
+                  "minHeight": 80,
+                  "paddingBottom": 0,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 0,
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "black",
+                    "fontSize": 16,
+                    "fontWeight": "600",
+                  },
+                ]
+              }
+            >
+              Argentina
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "600",
+                    "marginTop": 4,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              SPANISH, GUARANI
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Array [
+              Object {
+                "backgroundColor": "white",
+                "borderRadius": 15,
+                "height": 280,
+                "marginBottom": 20,
+                "marginLeft": 20,
+                "marginRight": 20,
+                "marginTop": 20,
+                "shadowColor": "rgba(0, 0, 0, 0.15)",
+                "shadowOffset": Object {
+                  "height": 5,
+                  "width": 0,
+                },
+                "shadowOpacity": 1,
+                "shadowRadius": 15,
+              },
+              Object {
+                "elevation": 10,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "black",
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "height": 200,
+                  "overflow": "hidden",
+                  "paddingBottom": 16,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingTop": 16,
+                  "position": "relative",
+                  "width": "100%",
+                },
+              ]
+            }
+          >
+            <Text
+              capital={true}
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "900",
+                    "marginTop": 4,
+                    "opacity": 1,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Vienna
+               .
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Burgenland
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Kärnten
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Niederösterreich
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Oberösterreich
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Salzburg
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Steiermark
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tirol
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Vorarlberg
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Wien
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "bottom": 0,
+                    "color": "white",
+                    "fontSize": 120,
+                    "fontWeight": "900",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "textAlign": "center",
+                    "textShadowColor": "rgba(0, 0, 0, 0.5)",
+                    "textShadowOffset": Object {
+                      "height": 0,
+                      "width": 0,
+                    },
+                    "textShadowRadius": 11,
+                  },
+                ]
+              }
+            >
+              AT
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "center",
+                  "marginLeft": 10,
+                  "minHeight": 80,
+                  "paddingBottom": 0,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 0,
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "black",
+                    "fontSize": 16,
+                    "fontWeight": "600",
+                  },
+                ]
+              }
+            >
+              Austria
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "600",
+                    "marginTop": 4,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              GERMAN
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Array [
+              Object {
+                "backgroundColor": "white",
+                "borderRadius": 15,
+                "height": 280,
+                "marginBottom": 20,
+                "marginLeft": 20,
+                "marginRight": 20,
+                "marginTop": 20,
+                "shadowColor": "rgba(0, 0, 0, 0.15)",
+                "shadowOffset": Object {
+                  "height": 5,
+                  "width": 0,
+                },
+                "shadowOpacity": 1,
+                "shadowRadius": 15,
+              },
+              Object {
+                "elevation": 10,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "black",
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "height": 200,
+                  "overflow": "hidden",
+                  "paddingBottom": 16,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingTop": 16,
+                  "position": "relative",
+                  "width": "100%",
+                },
+              ]
+            }
+          >
+            <Text
+              capital={true}
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "900",
+                    "marginTop": 4,
+                    "opacity": 1,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Canberra
+               .
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Ashmore and Cartier Islands
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Australian Antarctic Territory
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Australian Capital Territory
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Christmas Island
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Cocos Islands
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Coral Sea Islands
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Heard Island and McDonald Islands
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Jervis Bay Territory
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              New South Wales
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Norfolk Island
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Northern Territory
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Queensland
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              South Australia
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tasmania
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Victoria
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Western Australia
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "bottom": 0,
+                    "color": "white",
+                    "fontSize": 120,
+                    "fontWeight": "900",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "textAlign": "center",
+                    "textShadowColor": "rgba(0, 0, 0, 0.5)",
+                    "textShadowOffset": Object {
+                      "height": 0,
+                      "width": 0,
+                    },
+                    "textShadowRadius": 11,
+                  },
+                ]
+              }
+            >
+              AU
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "center",
+                  "marginLeft": 10,
+                  "minHeight": 80,
+                  "paddingBottom": 0,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 0,
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "black",
+                    "fontSize": 16,
+                    "fontWeight": "600",
+                  },
+                ]
+              }
+            >
+              Australia
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 14,
+                    "fontWeight": "600",
+                    "marginTop": 4,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              ENGLISH
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;

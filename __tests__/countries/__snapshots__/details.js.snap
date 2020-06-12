@@ -1,0 +1,4203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`country-page renders with errors 1`] = `
+<RNCSafeAreaView
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 15,
+        "overflow": "hidden",
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <View
+          style={
+            Object {
+              "borderRadius": 15,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "black",
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "height": 250,
+                  "overflow": "hidden",
+                  "paddingBottom": 16,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingTop": 16,
+                  "position": "relative",
+                  "width": "100%",
+                },
+              ]
+            }
+          >
+            <Text
+              capital={true}
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "900",
+                    "marginTop": 4,
+                    "opacity": 1,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Buenos Aires
+               .
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Ciudad Autónoma de Buenos Aires
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Catamarca
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chaco
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chubut
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Córdoba
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Corrientes
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Entre Ríos
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Formosa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Jujuy
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Pampa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Rioja
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Mendoza
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Misiones
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Neuquén
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Río Negro
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Salta
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Juan
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Luis
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Cruz
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Fe
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santiago del Estero
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tierra del Fuego, Antártida e Islas del Atlántico Sur
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tucumán
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "bottom": 0,
+                    "color": "white",
+                    "fontSize": 140,
+                    "fontWeight": "900",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "textAlign": "center",
+                    "textShadowColor": "rgba(0, 0, 0, 0.5)",
+                    "textShadowOffset": Object {
+                      "height": 0,
+                      "width": 0,
+                    },
+                    "textShadowRadius": 11,
+                  },
+                ]
+              }
+            >
+              AR
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "white",
+                  "borderRadius": 15,
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "center",
+                  "minHeight": 80,
+                  "overflow": "hidden",
+                  "paddingBottom": 20,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 20,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-end",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "paddingBottom": 5,
+                  "paddingLeft": 10,
+                }
+              }
+            >
+              <Text
+                large={true}
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 28,
+                      "fontWeight": "900",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Argentina
+              </Text>
+              <RNGestureHandlerButton
+                collapsable={false}
+                onGestureEvent={[Function]}
+                onGestureHandlerEvent={[Function]}
+                onGestureHandlerStateChange={[Function]}
+                onHandlerStateChange={[Function]}
+                rippleColor={0}
+                style={
+                  Array [
+                    Object {
+                      "overflow": "hidden",
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <View
+                  accessible={true}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "padding": 10,
+                      }
+                    }
+                  >
+                    <RNSVGSvgView
+                      align="xMidYMid"
+                      bbHeight={16}
+                      bbWidth={16}
+                      focusable={false}
+                      height={16}
+                      meetOrSlice={0}
+                      minX={0}
+                      minY={0}
+                      style={
+                        Array [
+                          Object {
+                            "backgroundColor": "transparent",
+                            "borderWidth": 0,
+                          },
+                          Object {
+                            "flex": 0,
+                            "height": 16,
+                            "width": 16,
+                          },
+                        ]
+                      }
+                      vbHeight={17.675}
+                      vbWidth={17.675}
+                      width={16}
+                    >
+                      <RNSVGGroup>
+                        <RNSVGPath
+                          d="M.312 15.824a1.1 1.1 0 000 1.535 1.111 1.111 0 001.535 0l7-7 6.984 7a1.1 1.1 0 001.535 0 1.111 1.111 0 000-1.535l-7-7 7-6.984a1.1 1.1 0 000-1.535 1.111 1.111 0 00-1.535 0l-6.984 7-7-7a1.1 1.1 0 00-1.535 0 1.1 1.1 0 000 1.523l7 7z"
+                          fill={4278190080}
+                          propList={
+                            Array [
+                              "fill",
+                            ]
+                          }
+                        />
+                      </RNSVGGroup>
+                    </RNSVGSvgView>
+                  </View>
+                </View>
+              </RNGestureHandlerButton>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RNCSafeAreaView>
+`;
+
+exports[`country-page renders with errors 2`] = `
+<RNCSafeAreaView
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 15,
+        "overflow": "hidden",
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <View
+          style={
+            Object {
+              "borderRadius": 15,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "black",
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "height": 250,
+                  "overflow": "hidden",
+                  "paddingBottom": 16,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingTop": 16,
+                  "position": "relative",
+                  "width": "100%",
+                },
+              ]
+            }
+          >
+            <Text
+              capital={true}
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "900",
+                    "marginTop": 4,
+                    "opacity": 1,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Buenos Aires
+               .
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Ciudad Autónoma de Buenos Aires
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Catamarca
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chaco
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chubut
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Córdoba
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Corrientes
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Entre Ríos
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Formosa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Jujuy
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Pampa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Rioja
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Mendoza
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Misiones
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Neuquén
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Río Negro
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Salta
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Juan
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Luis
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Cruz
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Fe
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santiago del Estero
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tierra del Fuego, Antártida e Islas del Atlántico Sur
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tucumán
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "bottom": 0,
+                    "color": "white",
+                    "fontSize": 140,
+                    "fontWeight": "900",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "textAlign": "center",
+                    "textShadowColor": "rgba(0, 0, 0, 0.5)",
+                    "textShadowOffset": Object {
+                      "height": 0,
+                      "width": 0,
+                    },
+                    "textShadowRadius": 11,
+                  },
+                ]
+              }
+            >
+              AR
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "white",
+                  "borderRadius": 15,
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "center",
+                  "minHeight": 80,
+                  "overflow": "hidden",
+                  "paddingBottom": 20,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 20,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-end",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "paddingBottom": 5,
+                  "paddingLeft": 10,
+                }
+              }
+            >
+              <Text
+                large={true}
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 28,
+                      "fontWeight": "900",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Argentina
+              </Text>
+              <RNGestureHandlerButton
+                collapsable={false}
+                onGestureEvent={[Function]}
+                onGestureHandlerEvent={[Function]}
+                onGestureHandlerStateChange={[Function]}
+                onHandlerStateChange={[Function]}
+                rippleColor={0}
+                style={
+                  Array [
+                    Object {
+                      "overflow": "hidden",
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <View
+                  accessible={true}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "padding": 10,
+                      }
+                    }
+                  >
+                    <RNSVGSvgView
+                      align="xMidYMid"
+                      bbHeight={16}
+                      bbWidth={16}
+                      focusable={false}
+                      height={16}
+                      meetOrSlice={0}
+                      minX={0}
+                      minY={0}
+                      style={
+                        Array [
+                          Object {
+                            "backgroundColor": "transparent",
+                            "borderWidth": 0,
+                          },
+                          Object {
+                            "flex": 0,
+                            "height": 16,
+                            "width": 16,
+                          },
+                        ]
+                      }
+                      vbHeight={17.675}
+                      vbWidth={17.675}
+                      width={16}
+                    >
+                      <RNSVGGroup>
+                        <RNSVGPath
+                          d="M.312 15.824a1.1 1.1 0 000 1.535 1.111 1.111 0 001.535 0l7-7 6.984 7a1.1 1.1 0 001.535 0 1.111 1.111 0 000-1.535l-7-7 7-6.984a1.1 1.1 0 000-1.535 1.111 1.111 0 00-1.535 0l-6.984 7-7-7a1.1 1.1 0 00-1.535 0 1.1 1.1 0 000 1.523l7 7z"
+                          fill={4278190080}
+                          propList={
+                            Array [
+                              "fill",
+                            ]
+                          }
+                        />
+                      </RNSVGGroup>
+                    </RNSVGSvgView>
+                  </View>
+                </View>
+              </RNGestureHandlerButton>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "marginBottom": 80,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 80,
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "color": "#b8bece",
+                      "fontSize": 16,
+                      "fontWeight": "600",
+                      "marginBottom": 20,
+                      "marginLeft": 20,
+                      "marginRight": 20,
+                      "marginTop": 20,
+                      "paddingBottom": 2,
+                      "paddingLeft": 2,
+                      "paddingRight": 2,
+                      "paddingTop": 2,
+                      "textTransform": "uppercase",
+                    },
+                  ]
+                }
+              >
+                Error: 
+                No message!
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RNCSafeAreaView>
+`;
+
+exports[`country-page renders without error 1`] = `
+<RNCSafeAreaView
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 15,
+        "overflow": "hidden",
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <View
+          style={
+            Object {
+              "borderRadius": 15,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "black",
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "height": 250,
+                  "overflow": "hidden",
+                  "paddingBottom": 16,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingTop": 16,
+                  "position": "relative",
+                  "width": "100%",
+                },
+              ]
+            }
+          >
+            <Text
+              capital={true}
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "900",
+                    "marginTop": 4,
+                    "opacity": 1,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Buenos Aires
+               .
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Ciudad Autónoma de Buenos Aires
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Catamarca
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chaco
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chubut
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Córdoba
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Corrientes
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Entre Ríos
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Formosa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Jujuy
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Pampa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Rioja
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Mendoza
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Misiones
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Neuquén
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Río Negro
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Salta
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Juan
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Luis
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Cruz
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Fe
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santiago del Estero
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tierra del Fuego, Antártida e Islas del Atlántico Sur
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tucumán
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "bottom": 0,
+                    "color": "white",
+                    "fontSize": 140,
+                    "fontWeight": "900",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "textAlign": "center",
+                    "textShadowColor": "rgba(0, 0, 0, 0.5)",
+                    "textShadowOffset": Object {
+                      "height": 0,
+                      "width": 0,
+                    },
+                    "textShadowRadius": 11,
+                  },
+                ]
+              }
+            >
+              AR
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "white",
+                  "borderRadius": 15,
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "center",
+                  "minHeight": 80,
+                  "overflow": "hidden",
+                  "paddingBottom": 20,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 20,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-end",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "paddingBottom": 5,
+                  "paddingLeft": 10,
+                }
+              }
+            >
+              <Text
+                large={true}
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 28,
+                      "fontWeight": "900",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Argentina
+              </Text>
+              <RNGestureHandlerButton
+                collapsable={false}
+                onGestureEvent={[Function]}
+                onGestureHandlerEvent={[Function]}
+                onGestureHandlerStateChange={[Function]}
+                onHandlerStateChange={[Function]}
+                rippleColor={0}
+                style={
+                  Array [
+                    Object {
+                      "overflow": "hidden",
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <View
+                  accessible={true}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "padding": 10,
+                      }
+                    }
+                  >
+                    <RNSVGSvgView
+                      align="xMidYMid"
+                      bbHeight={16}
+                      bbWidth={16}
+                      focusable={false}
+                      height={16}
+                      meetOrSlice={0}
+                      minX={0}
+                      minY={0}
+                      style={
+                        Array [
+                          Object {
+                            "backgroundColor": "transparent",
+                            "borderWidth": 0,
+                          },
+                          Object {
+                            "flex": 0,
+                            "height": 16,
+                            "width": 16,
+                          },
+                        ]
+                      }
+                      vbHeight={17.675}
+                      vbWidth={17.675}
+                      width={16}
+                    >
+                      <RNSVGGroup>
+                        <RNSVGPath
+                          d="M.312 15.824a1.1 1.1 0 000 1.535 1.111 1.111 0 001.535 0l7-7 6.984 7a1.1 1.1 0 001.535 0 1.111 1.111 0 000-1.535l-7-7 7-6.984a1.1 1.1 0 000-1.535 1.111 1.111 0 00-1.535 0l-6.984 7-7-7a1.1 1.1 0 00-1.535 0 1.1 1.1 0 000 1.523l7 7z"
+                          fill={4278190080}
+                          propList={
+                            Array [
+                              "fill",
+                            ]
+                          }
+                        />
+                      </RNSVGGroup>
+                    </RNSVGSvgView>
+                  </View>
+                </View>
+              </RNGestureHandlerButton>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+            <View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#000000",
+                      "height": 1,
+                      "marginBottom": 10,
+                      "marginLeft": 10,
+                      "marginRight": 10,
+                      "marginTop": 10,
+                      "opacity": 0.05,
+                      "width": 720,
+                    },
+                  ]
+                }
+              />
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginBottom": 5,
+                      "marginLeft": 10,
+                      "marginTop": 5,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 18,
+                        "fontWeight": "600",
+                        "width": "50%",
+                      },
+                    ]
+                  }
+                >
+                  ######
+                </Text>
+                <Text
+                  loading={true}
+                  style={
+                    Array [
+                      Object {
+                        "backgroundColor": "rgba(0,0,0,0.05)",
+                        "color": "transparent",
+                        "fontSize": 14,
+                        "fontWeight": "600",
+                        "marginTop": 4,
+                        "textTransform": "uppercase",
+                        "width": "75%",
+                      },
+                    ]
+                  }
+                >
+                  ######## ####
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RNCSafeAreaView>
+`;
+
+exports[`country-page renders without error 2`] = `
+<RNCSafeAreaView
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 15,
+        "overflow": "hidden",
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <View
+          style={
+            Object {
+              "borderRadius": 15,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "black",
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "height": 250,
+                  "overflow": "hidden",
+                  "paddingBottom": 16,
+                  "paddingLeft": 16,
+                  "paddingRight": 16,
+                  "paddingTop": 16,
+                  "position": "relative",
+                  "width": "100%",
+                },
+              ]
+            }
+          >
+            <Text
+              capital={true}
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "900",
+                    "marginTop": 4,
+                    "opacity": 1,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Buenos Aires
+               .
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Ciudad Autónoma de Buenos Aires
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Catamarca
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chaco
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Chubut
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Córdoba
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Corrientes
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Entre Ríos
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Formosa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Jujuy
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Pampa
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              La Rioja
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Mendoza
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Misiones
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Neuquén
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Río Negro
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Salta
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Juan
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              San Luis
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Cruz
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santa Fe
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Santiago del Estero
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tierra del Fuego, Antártida e Islas del Atlántico Sur
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#b8bece",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                    "marginTop": 4,
+                    "opacity": 0.5,
+                    "paddingBottom": 2,
+                    "paddingLeft": 2,
+                    "paddingRight": 2,
+                    "paddingTop": 2,
+                    "textTransform": "uppercase",
+                  },
+                ]
+              }
+            >
+              Tucumán
+               . 
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "bottom": 0,
+                    "color": "white",
+                    "fontSize": 140,
+                    "fontWeight": "900",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "textAlign": "center",
+                    "textShadowColor": "rgba(0, 0, 0, 0.5)",
+                    "textShadowOffset": Object {
+                      "height": 0,
+                      "width": 0,
+                    },
+                    "textShadowRadius": 11,
+                  },
+                ]
+              }
+            >
+              AR
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "white",
+                  "borderRadius": 15,
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "center",
+                  "minHeight": 80,
+                  "overflow": "hidden",
+                  "paddingBottom": 20,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 20,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-end",
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "paddingBottom": 5,
+                  "paddingLeft": 10,
+                }
+              }
+            >
+              <Text
+                large={true}
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 28,
+                      "fontWeight": "900",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Argentina
+              </Text>
+              <RNGestureHandlerButton
+                collapsable={false}
+                onGestureEvent={[Function]}
+                onGestureHandlerEvent={[Function]}
+                onGestureHandlerStateChange={[Function]}
+                onHandlerStateChange={[Function]}
+                rippleColor={0}
+                style={
+                  Array [
+                    Object {
+                      "overflow": "hidden",
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <View
+                  accessible={true}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "padding": 10,
+                      }
+                    }
+                  >
+                    <RNSVGSvgView
+                      align="xMidYMid"
+                      bbHeight={16}
+                      bbWidth={16}
+                      focusable={false}
+                      height={16}
+                      meetOrSlice={0}
+                      minX={0}
+                      minY={0}
+                      style={
+                        Array [
+                          Object {
+                            "backgroundColor": "transparent",
+                            "borderWidth": 0,
+                          },
+                          Object {
+                            "flex": 0,
+                            "height": 16,
+                            "width": 16,
+                          },
+                        ]
+                      }
+                      vbHeight={17.675}
+                      vbWidth={17.675}
+                      width={16}
+                    >
+                      <RNSVGGroup>
+                        <RNSVGPath
+                          d="M.312 15.824a1.1 1.1 0 000 1.535 1.111 1.111 0 001.535 0l7-7 6.984 7a1.1 1.1 0 001.535 0 1.111 1.111 0 000-1.535l-7-7 7-6.984a1.1 1.1 0 000-1.535 1.111 1.111 0 00-1.535 0l-6.984 7-7-7a1.1 1.1 0 00-1.535 0 1.1 1.1 0 000 1.523l7 7z"
+                          fill={4278190080}
+                          propList={
+                            Array [
+                              "fill",
+                            ]
+                          }
+                        />
+                      </RNSVGGroup>
+                    </RNSVGSvgView>
+                  </View>
+                </View>
+              </RNGestureHandlerButton>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#000000",
+                    "height": 1,
+                    "marginBottom": 10,
+                    "marginLeft": 10,
+                    "marginRight": 10,
+                    "marginTop": 10,
+                    "opacity": 0.05,
+                    "width": 720,
+                  },
+                ]
+              }
+            />
+            <View
+              style={
+                Array [
+                  Object {
+                    "marginBottom": 5,
+                    "marginLeft": 10,
+                    "marginTop": 5,
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 18,
+                      "fontWeight": "600",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Languages
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#b8bece",
+                      "fontSize": 14,
+                      "fontWeight": "600",
+                      "marginTop": 4,
+                      "textTransform": "uppercase",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                SPANISH, GUARANI
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#000000",
+                    "height": 1,
+                    "marginBottom": 10,
+                    "marginLeft": 10,
+                    "marginRight": 10,
+                    "marginTop": 10,
+                    "opacity": 0.05,
+                    "width": 720,
+                  },
+                ]
+              }
+            />
+            <View
+              style={
+                Array [
+                  Object {
+                    "marginBottom": 5,
+                    "marginLeft": 10,
+                    "marginTop": 5,
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 18,
+                      "fontWeight": "600",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Native
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#b8bece",
+                      "fontSize": 14,
+                      "fontWeight": "600",
+                      "marginTop": 4,
+                      "textTransform": "uppercase",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Argentina
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#000000",
+                    "height": 1,
+                    "marginBottom": 10,
+                    "marginLeft": 10,
+                    "marginRight": 10,
+                    "marginTop": 10,
+                    "opacity": 0.05,
+                    "width": 720,
+                  },
+                ]
+              }
+            />
+            <View
+              style={
+                Array [
+                  Object {
+                    "marginBottom": 5,
+                    "marginLeft": 10,
+                    "marginTop": 5,
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 18,
+                      "fontWeight": "600",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Capital
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#b8bece",
+                      "fontSize": 14,
+                      "fontWeight": "600",
+                      "marginTop": 4,
+                      "textTransform": "uppercase",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Buenos Aires
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#000000",
+                    "height": 1,
+                    "marginBottom": 10,
+                    "marginLeft": 10,
+                    "marginRight": 10,
+                    "marginTop": 10,
+                    "opacity": 0.05,
+                    "width": 720,
+                  },
+                ]
+              }
+            />
+            <View
+              style={
+                Array [
+                  Object {
+                    "marginBottom": 5,
+                    "marginLeft": 10,
+                    "marginTop": 5,
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 18,
+                      "fontWeight": "600",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Currency
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#b8bece",
+                      "fontSize": 14,
+                      "fontWeight": "600",
+                      "marginTop": 4,
+                      "textTransform": "uppercase",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                ARS
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#000000",
+                    "height": 1,
+                    "marginBottom": 10,
+                    "marginLeft": 10,
+                    "marginRight": 10,
+                    "marginTop": 10,
+                    "opacity": 0.05,
+                    "width": 720,
+                  },
+                ]
+              }
+            />
+            <View
+              style={
+                Array [
+                  Object {
+                    "marginBottom": 5,
+                    "marginLeft": 10,
+                    "marginTop": 5,
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 18,
+                      "fontWeight": "600",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Phone
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#b8bece",
+                      "fontSize": 14,
+                      "fontWeight": "600",
+                      "marginTop": 4,
+                      "textTransform": "uppercase",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                54
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#000000",
+                    "height": 1,
+                    "marginBottom": 10,
+                    "marginLeft": 10,
+                    "marginRight": 10,
+                    "marginTop": 10,
+                    "opacity": 0.05,
+                    "width": 720,
+                  },
+                ]
+              }
+            />
+            <View
+              style={
+                Array [
+                  Object {
+                    "marginBottom": 5,
+                    "marginLeft": 10,
+                    "marginTop": 5,
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#000000",
+                      "fontSize": 18,
+                      "fontWeight": "600",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                States
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "transparent",
+                      "color": "#b8bece",
+                      "fontSize": 14,
+                      "fontWeight": "600",
+                      "marginTop": 4,
+                      "textTransform": "uppercase",
+                      "width": "auto",
+                    },
+                  ]
+                }
+              >
+                Ciudad Autónoma de Buenos Aires . false . Catamarca . Chaco . Chubut . Córdoba . Corrientes . Entre Ríos . Formosa . Jujuy . La Pampa . La Rioja . Mendoza . Misiones . Neuquén . Río Negro . Salta . San Juan . San Luis . Santa Cruz . Santa Fe . Santiago del Estero . Tierra del Fuego, Antártida e Islas del Atlántico Sur . Tucumán
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#000000",
+                    "height": 1,
+                    "marginBottom": 10,
+                    "marginLeft": 10,
+                    "marginRight": 10,
+                    "marginTop": 10,
+                    "opacity": 0.05,
+                    "width": 720,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RNCSafeAreaView>
+`;
